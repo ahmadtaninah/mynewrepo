@@ -1,7 +1,7 @@
-slgjhdsal\
-d;lakgm;xlgmbn
+progran ffff
 
-Klagdlfn
-
-da;lkfgm
-gaenlsdf
+  do i =1,3
+  write(*,*) "good"
+enddo
+stop
+end
